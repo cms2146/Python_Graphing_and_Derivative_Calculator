@@ -1,0 +1,5 @@
+Hello!
+The documentation in the current version of the code should be pretty extensive, but feel free to ask me any question you may have.
+The code currently requires Numpy and matplotlib to function, and I'm trying to write a script to install those if not present, but matplotlib is being annoying, so if anybody can help with that it's be appreciated.
+Any questions or comments can be send to my email at cms2146@rit.edu
+Thanks for checking out my project!
